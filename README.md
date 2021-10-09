@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Dreaming to be a Physicist one day
+Trying to be a Physicist... 
 
 I'm a Master degree student in Physics (Fundamental Interactions) at the University of Padua.
+Bachelor degree done!
 
 <!--
 **ciarlans/ciarlans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
