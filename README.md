@@ -2,7 +2,7 @@
 
 Dreaming to be a Physicist one day
 
-I'm a Master degree in Physics "Fundamental Interactions" at the University of Padua.
+I'm a Master degree student in Physics (Fundamental Interactions) at the University of Padua.
 
 <!--
 **ciarlans/ciarlans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
